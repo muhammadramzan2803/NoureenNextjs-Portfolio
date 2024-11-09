@@ -8,9 +8,9 @@ const Skills = () => {
             <h2 className='text-4xl md:text-5xl'>Technologies I work with</h2>
             <p className='text-gray-500 pt-2'>
                 I specialize in web development, UI/UX design, and backend development using JavaScript and TypeScript.
-                I'm proficient in using React, Next.js, and GraphQL. I also have experience with Node.js, Express, and MongoDB.
-                I'm also familiar with other popular frameworks like Angular, Vue.js, and Flutter.
-                I'm also comfortable working with other backend technologies like Python and Ruby on Rails.
+                I am proficient in using React, Next.js, and GraphQL. I also have experience with Node.js, Express, and MongoDB.
+                I am also familiar with other popular frameworks like Angular, Vue.js, and Flutter.
+                I am also comfortable working with other backend technologies like Python and Ruby on Rails.
             </p>
         </div>
         <div>
