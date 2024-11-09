@@ -33,7 +33,7 @@ const Navbar = () => {
               <li className='menuLink'><a href='#about' onClick={toggleMenu}>About</a></li>
               <li className='menuLink'><a href='#projects' onClick={toggleMenu}>Projects</a></li>
               <li className='menuLink'><a href='#skills' onClick={toggleMenu}>Skils</a></li>
-              <li className='menuLink'><a href='#contact' onClick={toggleMenu}npm run dev
+              <li className='menuLink'><a href='#contact' onClick={toggleMenu}
               >Contact</a></li>
             </ul>
           )
